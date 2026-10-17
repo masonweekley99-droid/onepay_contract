@@ -1,0 +1,2 @@
+cat << 'EOF' > onepay_sales_db.txt,0,0,order.3KnHF4lmsbXqSqBFFETW9b6w8Q9,22.4266,3.75,16:31:00
+3KnnskbgIWjGLSfRiFvJ6fPvpJi,11.2891,1.75,21:00:00

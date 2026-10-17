@@ -1,0 +1,10 @@
+[package]
+name = "onepay_ledger"
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+
+[[bin]]
+name = "onepay_test"
+path = "src/main.rs"
